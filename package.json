@@ -8,11 +8,10 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "test": "vite test"
+    "test": "vitest"
   },
   "dependencies": {
     "available": "^2.2.1",
-    "latest": "^0.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
